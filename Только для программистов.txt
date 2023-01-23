@@ -1,0 +1,3 @@
+print('Сколько вам лет?')
+name=input()
+print('Привет, name')
